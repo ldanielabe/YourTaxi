@@ -376,7 +376,7 @@ nav.side-navbar a[data-toggle="collapse"]::before {
   display: inline-block;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
-  font-family: 'FontAwesome';
+ 
   position: absolute;
   top: 50%;
   right: 20px;
@@ -1654,7 +1654,7 @@ form label {
   line-height: 12px;
   text-align: center;
   display: block;
-  font-family: 'FontAwesome';
+  
   position: absolute;
   top: 1px;
   left: 1px;
@@ -1831,7 +1831,7 @@ section.forms .line {
   background-size: cover;
   -webkit-filter: blur(10px);
   filter: blur(10px);
-  z-index: 1;
+
   position: absolute;
   top: 0;
   right: 0;
